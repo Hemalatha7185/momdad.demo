@@ -13,3 +13,6 @@ f
 g
 h
 j
+dogs
+cats
+elephants and apples
